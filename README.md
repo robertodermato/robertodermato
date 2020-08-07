@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 
-I am a dermatologist, diver and Software Engineering student at PUCRS.
+I am a dermatologist, Master scuba diver and Software Engineering student at PUCRS.
 
 - 🔭 I’m currently working on basic Java study projects.
 - 🌱 I’m currently learning Java.
