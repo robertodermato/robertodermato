@@ -7,6 +7,9 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 - 📫 How to reach me: robertodermato@gmail.com
 
 ---
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robertodermato)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertodermato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 ## Algoritmos Avançados
 ### [1- Programação Dinâmica - exemplo com Fibonacci.](https://github.com/robertodermato/ProgramacaoDinamica.git)
 [Documento com algumas explicações](https://docs.google.com/document/d/1RNHlz1javJCIgI9wuwG7zFeHW3GPtgcc5vWcO7qAI9c/edit?usp=sharing)
