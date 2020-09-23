@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 
-I am a dermatologist, Master scuba diver and Software Engineering student at PUCRS.
+I am a dermatologist, Master scuba diver and Software Engineering student at PUCRS, Porto Alegre, Brazil.
 
 - 🔭 I’m currently working on basic Java study projects.
 - 🌱 I’m currently learning Java.
@@ -22,12 +22,28 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 ### [2- Várias árvores: rubro-negra, binária, geral, BST, Deque](https://github.com/robertodermato/Trees.git)
 ### [3- Calculadora usando estrtutura de pilha](https://github.com/robertodermato/CalculadoraPilha.git)
 ### [4- Deque, Fila e Pilha](https://github.com/robertodermato/FilaQueue.git)
+### [5- Pilha](https://github.com/robertodermato/pilha.git)
+### [6- Double Linked List](https://github.com/robertodermato/DoublyLinkedListProfessora.git)
+### [7- Linked List](https://github.com/robertodermato/listaEncadeada.git)
+### [8- List Array of Integer](https://github.com/robertodermato/ListAarrayOfInteger.git)
+### [9- Trabalho de Alest1 usando Double Linked List](https://github.com/robertodermato/Trabalho1Alest.git)
+### [10- Exercícios de métodos recursivos, incluindo palíndromo](https://github.com/robertodermato/recursivos.git)
 
 ## POO
 ### [1- Exercício de dicionário usando HashMap](https://github.com/robertodermato/exercicioDicionario.git)
 ### [2- Outro exercício usando HashMap](https://github.com/robertodermato/ColecoesDic.git)
 ### [3- Jogo similar ao Magic The Gathering](https://github.com/robertodermato/JogoCartasProfe.git)
 ### [4- Exercicio básico sobre herança - Embalagens](https://github.com/robertodermato/Embalagens.git)
+### [5- Exemplos de tratamento de exceção em Java](https://github.com/robertodermato/AulaExcecaoPoo.git)
+### [6- Exercício de gerenciamento de aeroporto](https://github.com/robertodermato/aeroportoPoo.git)
+### [7- Exemplos de como ler e escrever em arquivos em Java](https://github.com/robertodermato/streams.git)
+### [8- Exemplo usando leitura e escrita em arquivos em um cadastro de Funcionários](https://github.com/robertodermato/AppFuncionariosStreams.git)
+### [9- Exemplo usando Comparator/Compare e ArrayList](https://github.com/robertodermato/cadastroDeFuncionarios.git)
+### [10- Mais um exemplo usando Comparator/Compare](https://github.com/robertodermato/AcmeAir.git)
+### [11- Exemplo de classe de teste](https://github.com/robertodermato/triangulo.git)
+### [12- Exercicio usando classe Cloneable](https://github.com/robertodermato/Telefonia.git)
+### [13- Exercício de herança](https://github.com/robertodermato/Funcionario.git)
+### [14- Exercício de Comparator/Camparable/CompareTo](https://github.com/robertodermato/testeInterface2.git)
 
 
 
