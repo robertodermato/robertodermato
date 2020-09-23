@@ -7,7 +7,7 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 - 📫 How to reach me: robertodermato@gmail.com
 
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robertodermato&theme=radical&count_private=false)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robertodermato&theme=radical&hide=prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertodermato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
