@@ -9,6 +9,7 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robertodermato&theme=vue&hide=prs,issues&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertodermato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertodermato)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Algoritmos Avançados
