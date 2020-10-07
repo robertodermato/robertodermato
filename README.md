@@ -17,6 +17,7 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 
 ## Organização e Arquitetura de Hardware
 ### [1- Exercícios do Viking](https://github.com/robertodermato/ExerciciosSimuladorViking.git)
+### [2 - Trabalho 2 sobre Viking](https://github.com/robertodermato/T2OrgArq.git)
 
 ## Algoritmos Avançados
 ### [1- Programação Dinâmica - exemplo com Fibonacci.](https://github.com/robertodermato/ProgramacaoDinamica.git)
