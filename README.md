@@ -17,6 +17,7 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 
 ## Gerenciamento e Configuração de Software
 ### [1- Tela de Desenho em Java do Prof. Daniel Callegari](https://github.com/robertodermato/TelaDesenho.git)
+### [2- Projeto básico de demonstração do uso de um git flow. Usa app com método run()[(https://github.com/GabrieRabelo/ja-chegou)
 
 ## Organização e Arquitetura de Hardware
 ### [1- Exercícios do Viking](https://github.com/robertodermato/ExerciciosSimuladorViking.git)
