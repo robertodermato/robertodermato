@@ -13,7 +13,7 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 
 ---
 ## Inteligência Artificial
-### [1- Algoritmo Genético para calcular divisão de cargas entre duas pessoas] (https://github.com/robertodermato/algoritmo_genetico_cargas)
+### [1- Algoritmo Genético para calcular divisão de cargas entre duas pessoas](https://github.com/robertodermato/algoritmo_genetico_cargas)
 
 ## Gerenciamento e Configuração de Software
 ### [1- Tela de Desenho em Java do Prof. Daniel Callegari](https://github.com/robertodermato/TelaDesenho.git)
