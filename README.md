@@ -33,6 +33,7 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 ## Linguagens de Programação
 ### [1- Lexer simples](https://github.com/robertodermato/Lexer.git)
 ### [2- Lexer simples melhor](https://github.com/LucasGCardoso/interpreter/blob/master/src/src/Interpreter.java)
+### [3- Funções simples em Haskell - Linguagem funcional](https://github.com/LucasGCardoso/HaskellSimpleFunctions)
 
 ## Alest 2
 ### [1- Alguns grafos básicos: grafo, dígrafo, DFS, BFS](https://github.com/robertodermato/BasicGraphsAlfa.git)
