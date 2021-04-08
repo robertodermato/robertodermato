@@ -53,7 +53,7 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 ## POO
 ### [1- Exercício de dicionário usando HashMap](https://github.com/robertodermato/exercicioDicionario.git)
 ### [2- Outro exercício usando HashMap](https://github.com/robertodermato/ColecoesDic.git)
-### [3- Jogo similar ao Magic The Gathering](https://github.com/robertodermato/JogoCartasProfe.git)
+### [3- Jogo similar ao Magic The Gathering. Interface gráfica em Java.](https://github.com/robertodermato/JogoCartasProfe.git)
 ### [4- Exercicio básico sobre herança - Embalagens](https://github.com/robertodermato/Embalagens.git)
 ### [5- Exemplos de tratamento de exceção em Java](https://github.com/robertodermato/AulaExcecaoPoo.git)
 ### [6- Exercício de gerenciamento de aeroporto](https://github.com/robertodermato/aeroportoPoo.git)
