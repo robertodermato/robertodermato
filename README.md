@@ -15,6 +15,9 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 ## Inteligência Artificial
 ### [1- Algoritmo Genético para calcular divisão de cargas entre duas pessoas](https://github.com/robertodermato/algoritmo_genetico_cargas)
 ### [2- Algoritmo Genético para distribuir duas turmas em quartos de hotel. Usa Fibonacci, primos, leitura de arquivos, menu, método run.app](https://github.com/robertodermato/algoritmo_genetico_alunos)
+### [3- Problemas das N Rainhas - resolvido por Hill Climbing - Autor: Prof. Silvia Maria W. Moraes](https://github.com/robertodermato/hill_climbing_n_rainhas_silvia)
+### [4- Problemas das N Rainhas - resolvido por Simulated Annealing - Autor: Prof. Silvia Maria W. Moraes](https://github.com/robertodermato/simulated_annealing_n_rainhas_silvia)
+### [5- Problemas de distribuição de cargas - resolvido por Simulated Annealing - Autor: Prof. Silvia Maria W. Moraes](https://github.com/robertodermato/Distribuicao_de_Cargas_simulated_annealing_silvia)
 
 ## Gerenciamento e Configuração de Software
 ### [1- Tela de Desenho em Java do Prof. Daniel Callegari](https://github.com/robertodermato/TelaDesenho.git)
