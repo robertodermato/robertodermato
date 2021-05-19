@@ -12,6 +12,9 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertodermato)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## Machine Learning
+### [1- Tensor Flow 2.0 Testando um tutorial](https://github.com/robertodermato/teste)
+
 ## Inteligência Artificial
 ### [1- Algoritmo Genético para calcular divisão de cargas entre duas pessoas](https://github.com/robertodermato/algoritmo_genetico_cargas)
 ### [2- Algoritmo Genético para distribuir duas turmas em quartos de hotel. Usa Fibonacci, primos, leitura de arquivos, menu, método run.app](https://github.com/robertodermato/algoritmo_genetico_alunos)
