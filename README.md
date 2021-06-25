@@ -22,6 +22,7 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 ### [4- Problemas das N Rainhas - resolvido por Simulated Annealing - Autor: Prof. Silvia Maria W. Moraes](https://github.com/robertodermato/simulated_annealing_n_rainhas_silvia)
 ### [5- Problemas de distribuição de cargas - resolvido por Simulated Annealing - Autor: Prof. Silvia Maria W. Moraes](https://github.com/robertodermato/Distribuicao_de_Cargas_simulated_annealing_silvia)
 ### [6- Exercício em PDDL](https://github.com/robertodermato/PDDL)
+### [7- Processamento de Linguagem Natural de Tweets com Python e NLTK. Análise de sentimentos.](https://github.com/robertodermato/nltk)
 
 ## Gerenciamento e Configuração de Software
 ### [1- Tela de Desenho em Java do Prof. Daniel Callegari](https://github.com/robertodermato/TelaDesenho.git)
