@@ -12,6 +12,9 @@ I am a dermatologist, Master scuba diver and Software Engineering student at PUC
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertodermato)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## Axie Infinity
+### [1- Axie Breeding Calculator](https://github.com/robertodermato/AxieBreedCalculator)
+
 ## Machine Learning
 ### [1- Tensor Flow 2.0 Testando um tutorial](https://github.com/robertodermato/teste)
 
