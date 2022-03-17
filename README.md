@@ -1,9 +1,9 @@
 # Welcome to my GitHub page 👋
 
-I am a dermatologist, Master scuba diver and Software Engineering student at PUCRS, Porto Alegre, Brazil.
+I am a dermatologist, Master scuba diver and Software Engineering, Data Science and Artificial Intelligence student at PUCRS, Porto Alegre, Brazil.
 
-- 🔭 I’m currently working on basic Java study projects.
-- 🌱 I’m currently learning Java.
+- 🔭 I’m currently working on basic Java and Python study projects.
+- 🌱 I’m currently learning Java and Python .
 - 📫 How to reach me: robertodermato@gmail.com
 
 ---
