@@ -14,6 +14,7 @@ I am a dermatologist, Master scuba diver and Software Engineering, Data Science 
 ---
 ## Sistemas Operacionais
 ### [1- Máquina Virtual com Monitor residente](https://github.com/robertodermato/sisopvm)
+### [2- Máquina Virtual com Monitor residente V2.0](https://github.com/robertodermato/Monitor2)
 
 ## Axie Infinity
 ### [1- Axie Breeding Calculator](https://github.com/robertodermato/AxieBreedCalculator)
