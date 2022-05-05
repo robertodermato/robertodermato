@@ -13,11 +13,12 @@ I am a dermatologist, Master scuba diver and Software Engineering, Data Science 
 
 ---
 ## Sistemas Operacionais
-### [1- Sistema Operacional v1.0 - com Monitor residente](https://github.com/robertodermato/sisopvm)
-### [2- Sistema Operacional v2.0](https://github.com/robertodermato/Monitor2)
-### [3- Sistema Operacional v3.0 - com Gerenciador de Memória e de Processos rudimentares](https://github.com/robertodermato/monitor3/blob/master/src/Sistema.java)
-### [3- Sistema Operacional fase 4 - com Gerenciador de Memória](https://github.com/robertodermato/monitor3)
-### [3- Sistema Operacional fase 5 - com Gerenciador de Processos](https://github.com/robertodermato/monitorfase5)
+### [1- Sistema Operacional fase 1 - com Monitor residente](https://github.com/robertodermato/sisopvm)
+### [2- Sistema Operacional fase 2](https://github.com/robertodermato/Monitor2)
+### [3- Sistema Operacional fase 3 - com Gerenciador de Memória e de Processos rudimentares](https://github.com/robertodermato/monitor3/blob/master/src/Sistema.java)
+### [4- Sistema Operacional fase 4 - com Gerenciador de Memória](https://github.com/robertodermato/monitor3)
+### [5- Sistema Operacional fase 5 - com Gerenciador de Processos](https://github.com/robertodermato/monitorfase5)
+### [6- Sistema Operacional fase 6 - com Escalonador](https://github.com/robertodermato/monitorfase6)
 
 ## Axie Infinity
 ### [1- Axie Breeding Calculator](https://github.com/robertodermato/AxieBreedCalculator)
