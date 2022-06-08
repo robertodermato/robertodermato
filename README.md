@@ -19,6 +19,7 @@ I am a dermatologist, Master scuba diver and Software Engineering, Data Science 
 ### [4- Sistema Operacional fase 4 - com Gerenciador de Memória](https://github.com/robertodermato/monitor3)
 ### [5- Sistema Operacional fase 5 - com Gerenciador de Processos](https://github.com/robertodermato/monitorfase5)
 ### [6- Sistema Operacional fase 6 - com Escalonador](https://github.com/robertodermato/monitorfase6)
+### [7- Sistema Operacional fase 7 - com threads e Escalonador](https://github.com/robertodermato/monitorfase7)
 
 ## Axie Infinity
 ### [1- Axie Breeding Calculator](https://github.com/robertodermato/AxieBreedCalculator)
